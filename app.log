@@ -1,0 +1,330 @@
+2025-09-25 20:43:44,701 - prescription_app - INFO - ML model loaded successfully.
+2025-09-25 20:43:50,964 - prescription_app - INFO - ML model loaded successfully.
+2025-09-25 20:43:56,298 - prescription_app - INFO - ML model loaded successfully.
+2025-09-25 20:43:56,371 - prescription_app - INFO - File uploaded: 0.png
+2025-09-25 20:43:58,395 - prescription_app - DEBUG - OCR output for 0.png: LABORATORY REPORT
+
+Patient Name: Vicki Frank Age: 53
+
+DOB: 1971-06-26 Gender: female
+
+Address: 711 Cole Stravenue Suite 23 City: Franklin
+
+State: MA Country: US
+
+PostalCode: 02038 MaritalStatus: | Married
+
+MRN: a698a486-824d-3beb-5d74-cd7809889e2b Report Date: Dec 13, 2014, 01:54:26
+
+Test Result Units
+
+Body Height 179.9 cm
+Pain severity - 0-10 verbal numeric rating [Score] 1.0 {score}
+- Reported
+Body Weight 98.5 kg
+Body mass index (BMI) [Ratio] 30.44 kg/m2
+Diastolic Blood Pressure 86 mm[Hg]
+Systolic Blood Pressure 100 mm[Hg]
+Heart rate 96.0 /min
+Respiratory rate 14.0 /min
+Generalized anxiety disorder 7 item (GAD-7) total 3.0 {score}
+score [Reported.PHQ]
+Patient Health Questionnaire 2 item (PHQ-2) total 2.0 {score}
+score [Reported]
+Total score [AUDIT-C] 1.0 {score}
+
+Dr. Wynell Mayert
+
+[m] 1 = [=] Booking Centre:- WELLNESS ON WHEELS,PC
+
+=_ © (263)761-9191 B robin83@example.com ® http://fisher.com/
+
+[mu] All Lab results are subject to clinical interpretation by qualified medical professional and this report is not subject to use for any medico-legal purpose.
+7
+
+
+2025-09-25 20:43:58,402 - prescription_app - INFO - Extracted data fields from 0.png
+2025-09-25 20:43:58,408 - prescription_app - INFO - Risk predicted for 0.png: High (Because of Medium age, Obesity (High BMI))
+2025-09-25 22:01:58,210 - prescription_app - INFO - ML model loaded successfully.
+2025-09-25 22:05:53,776 - prescription_app - INFO - ML model loaded successfully.
+2025-09-25 22:50:29,504 - prescription_app - INFO - ML model loaded successfully.
+2025-09-25 22:53:23,269 - prescription_app - INFO - ML model loaded successfully.
+2025-09-25 22:53:55,860 - prescription_app - INFO - ML model loaded successfully.
+2025-09-25 23:10:30,963 - prescription_app - INFO - ML model loaded successfully.
+2025-09-26 11:07:21,562 - prescription_app - INFO - ML model loaded successfully.
+2025-09-26 11:07:37,366 - prescription_app - INFO - ML model loaded successfully.
+2025-09-26 11:07:41,776 - prescription_app - INFO - ML model loaded successfully.
+2025-09-26 11:07:41,846 - prescription_app - INFO - File uploaded: 4.png
+2025-09-26 11:07:44,395 - prescription_app - DEBUG - OCR output for 4.png: LABORATORY REPORT
+
+Patient Name: — Leonia Roxie Age: 63
+
+DOB: 1961-03-23 Gender: female
+
+Address: 932 Konopelski Path Unit 95 City: Weymouth
+
+State: MA Country: US
+
+PostalCode: 02189 MaritalStatus: | Married
+
+MRN: b0Odba817-cfc9-bdc2-460e-b374c6401d13 Report Date: Mar 10, 2016, 09:07:17
+
+Test Result Units
+
+Weight difference [Mass difference] --pre dialysis 4.3944 kg
+- post dialysis
+Pain severity - 0-10 verbal numeric rating [Score] 3.0 {score}
+- Reported
+
+Aey—
+
+Dr. Leif Hane
+[m] [=] Booking Centre:- DANA FARBER CANCER INSTITUTE
+- ad © (446)278-1560 B Imoss@example.net ® http://www.chang-calhoun.ci
+[mu] rl All Lab results are subject to clinical interpretation by qualified medical professional and this report is not subject to use for any medico-legal purpose.
+
+
+2025-09-26 11:07:44,398 - prescription_app - INFO - Extracted data fields from 4.png
+2025-09-26 11:07:44,414 - prescription_app - INFO - ML prediction successful for 4.png: Low
+2025-09-26 11:50:46,606 - prescription_app - INFO - ML model loaded successfully.
+2025-09-26 11:51:21,864 - prescription_app - INFO - ML model loaded successfully.
+2025-09-26 11:51:44,517 - prescription_app - INFO - ML model loaded successfully.
+2025-09-26 11:55:49,905 - prescription_app - INFO - ML model loaded successfully.
+2025-09-26 11:55:54,071 - prescription_app - INFO - ML model loaded successfully.
+2025-09-26 11:55:59,543 - prescription_app - INFO - ML model loaded successfully.
+2025-09-26 11:55:59,581 - prescription_app - INFO - File uploaded: 0.png
+2025-09-26 11:56:01,315 - prescription_app - DEBUG - OCR output for 0.png: LABORATORY REPORT
+
+Patient Name: Vicki Frank Age: 53
+
+DOB: 1971-06-26 Gender: female
+
+Address: 711 Cole Stravenue Suite 23 City: Franklin
+
+State: MA Country: US
+
+PostalCode: 02038 MaritalStatus: | Married
+
+MRN: a698a486-824d-3beb-5d74-cd7809889e2b Report Date: Dec 13, 2014, 01:54:26
+
+Test Result Units
+
+Body Height 179.9 cm
+Pain severity - 0-10 verbal numeric rating [Score] 1.0 {score}
+- Reported
+Body Weight 98.5 kg
+Body mass index (BMI) [Ratio] 30.44 kg/m2
+Diastolic Blood Pressure 86 mm[Hg]
+Systolic Blood Pressure 100 mm[Hg]
+Heart rate 96.0 /min
+Respiratory rate 14.0 /min
+Generalized anxiety disorder 7 item (GAD-7) total 3.0 {score}
+score [Reported.PHQ]
+Patient Health Questionnaire 2 item (PHQ-2) total 2.0 {score}
+score [Reported]
+Total score [AUDIT-C] 1.0 {score}
+
+Dr. Wynell Mayert
+
+[m] 1 = [=] Booking Centre:- WELLNESS ON WHEELS,PC
+
+=_ © (263)761-9191 B robin83@example.com ® http://fisher.com/
+
+[mu] All Lab results are subject to clinical interpretation by qualified medical professional and this report is not subject to use for any medico-legal purpose.
+7
+
+
+2025-09-26 11:56:01,316 - prescription_app - INFO - Extracted data fields from 0.png
+2025-09-26 11:56:01,317 - prescription_app - INFO - Risk predicted for 0.png: High (Because of Medium age, Obesity (High BMI))
+2025-09-26 11:56:57,013 - prescription_app - INFO - ML model loaded successfully.
+2025-09-26 11:58:15,014 - prescription_app - INFO - ML model loaded successfully.
+2025-09-26 11:58:22,283 - prescription_app - INFO - ML model loaded successfully.
+2025-09-26 11:58:22,302 - prescription_app - INFO - File uploaded: 0.png
+2025-09-26 11:58:26,983 - prescription_app - DEBUG - OCR output for 0.png: LABORATORY REPORT
+
+Patient Name: Vicki Frank Age: 53
+
+DOB: 1971-06-26 Gender: female
+
+Address: 711 Cole Stravenue Suite 23 City: Franklin
+
+State: MA Country: US
+
+PostalCode: 02038 MaritalStatus: | Married
+
+MRN: a698a486-824d-3beb-5d74-cd7809889e2b Report Date: Dec 13, 2014, 01:54:26
+
+Test Result Units
+
+Body Height 179.9 cm
+Pain severity - 0-10 verbal numeric rating [Score] 1.0 {score}
+- Reported
+Body Weight 98.5 kg
+Body mass index (BMI) [Ratio] 30.44 kg/m2
+Diastolic Blood Pressure 86 mm[Hg]
+Systolic Blood Pressure 100 mm[Hg]
+Heart rate 96.0 /min
+Respiratory rate 14.0 /min
+Generalized anxiety disorder 7 item (GAD-7) total 3.0 {score}
+score [Reported.PHQ]
+Patient Health Questionnaire 2 item (PHQ-2) total 2.0 {score}
+score [Reported]
+Total score [AUDIT-C] 1.0 {score}
+
+Dr. Wynell Mayert
+
+[m] 1 = [=] Booking Centre:- WELLNESS ON WHEELS,PC
+
+=_ © (263)761-9191 B robin83@example.com ® http://fisher.com/
+
+[mu] All Lab results are subject to clinical interpretation by qualified medical professional and this report is not subject to use for any medico-legal purpose.
+7
+
+
+2025-09-26 11:58:26,983 - prescription_app - INFO - Extracted data fields from 0.png
+2025-09-26 11:58:26,990 - prescription_app - INFO - Risk predicted for 0.png: High (Because of Medium age, Obesity (High BMI))
+2025-09-26 11:59:24,687 - prescription_app - INFO - ML model loaded successfully.
+2025-09-26 12:00:06,021 - prescription_app - INFO - ML model loaded successfully.
+2025-09-26 12:00:11,139 - prescription_app - INFO - ML model loaded successfully.
+2025-09-26 12:00:11,147 - prescription_app - INFO - File uploaded: 0.png
+2025-09-26 12:00:12,247 - prescription_app - DEBUG - OCR output for 0.png: LABORATORY REPORT
+
+Patient Name: Vicki Frank Age: 53
+
+DOB: 1971-06-26 Gender: female
+
+Address: 711 Cole Stravenue Suite 23 City: Franklin
+
+State: MA Country: US
+
+PostalCode: 02038 MaritalStatus: | Married
+
+MRN: a698a486-824d-3beb-5d74-cd7809889e2b Report Date: Dec 13, 2014, 01:54:26
+
+Test Result Units
+
+Body Height 179.9 cm
+Pain severity - 0-10 verbal numeric rating [Score] 1.0 {score}
+- Reported
+Body Weight 98.5 kg
+Body mass index (BMI) [Ratio] 30.44 kg/m2
+Diastolic Blood Pressure 86 mm[Hg]
+Systolic Blood Pressure 100 mm[Hg]
+Heart rate 96.0 /min
+Respiratory rate 14.0 /min
+Generalized anxiety disorder 7 item (GAD-7) total 3.0 {score}
+score [Reported.PHQ]
+Patient Health Questionnaire 2 item (PHQ-2) total 2.0 {score}
+score [Reported]
+Total score [AUDIT-C] 1.0 {score}
+
+Dr. Wynell Mayert
+
+[m] 1 = [=] Booking Centre:- WELLNESS ON WHEELS,PC
+
+=_ © (263)761-9191 B robin83@example.com ® http://fisher.com/
+
+[mu] All Lab results are subject to clinical interpretation by qualified medical professional and this report is not subject to use for any medico-legal purpose.
+7
+
+
+2025-09-26 12:00:12,247 - prescription_app - INFO - Extracted data fields from 0.png
+2025-09-26 12:00:12,252 - prescription_app - INFO - Risk predicted for 0.png: High (Because of Medium age, Obesity (High BMI))
+2025-09-26 12:02:09,717 - prescription_app - INFO - ML model loaded successfully.
+2025-09-26 12:02:11,262 - prescription_app - INFO - ML model loaded successfully.
+2025-09-26 12:02:12,380 - prescription_app - INFO - ML model loaded successfully.
+2025-09-26 12:02:30,551 - prescription_app - INFO - ML model loaded successfully.
+2025-09-26 12:02:35,571 - prescription_app - INFO - ML model loaded successfully.
+2025-09-26 12:02:35,579 - prescription_app - INFO - File uploaded: 0.png
+2025-09-26 12:02:39,565 - prescription_app - DEBUG - OCR output for 0.png: LABORATORY REPORT
+
+Patient Name: Vicki Frank Age: 53
+
+DOB: 1971-06-26 Gender: female
+
+Address: 711 Cole Stravenue Suite 23 City: Franklin
+
+State: MA Country: US
+
+PostalCode: 02038 MaritalStatus: | Married
+
+MRN: a698a486-824d-3beb-5d74-cd7809889e2b Report Date: Dec 13, 2014, 01:54:26
+
+Test Result Units
+
+Body Height 179.9 cm
+Pain severity - 0-10 verbal numeric rating [Score] 1.0 {score}
+- Reported
+Body Weight 98.5 kg
+Body mass index (BMI) [Ratio] 30.44 kg/m2
+Diastolic Blood Pressure 86 mm[Hg]
+Systolic Blood Pressure 100 mm[Hg]
+Heart rate 96.0 /min
+Respiratory rate 14.0 /min
+Generalized anxiety disorder 7 item (GAD-7) total 3.0 {score}
+score [Reported.PHQ]
+Patient Health Questionnaire 2 item (PHQ-2) total 2.0 {score}
+score [Reported]
+Total score [AUDIT-C] 1.0 {score}
+
+Dr. Wynell Mayert
+
+[m] 1 = [=] Booking Centre:- WELLNESS ON WHEELS,PC
+
+=_ © (263)761-9191 B robin83@example.com ® http://fisher.com/
+
+[mu] All Lab results are subject to clinical interpretation by qualified medical professional and this report is not subject to use for any medico-legal purpose.
+7
+
+
+2025-09-26 12:02:39,565 - prescription_app - INFO - Extracted data fields from 0.png
+2025-09-26 12:02:39,572 - prescription_app - INFO - Risk predicted for 0.png: High (Because of Medium age, Obesity (High BMI))
+2025-09-26 12:03:32,973 - prescription_app - INFO - ML model loaded successfully.
+2025-09-26 12:07:22,223 - prescription_app - INFO - ML model loaded successfully.
+2025-09-26 12:07:28,562 - prescription_app - INFO - ML model loaded successfully.
+2025-09-26 12:07:46,692 - prescription_app - INFO - ML model loaded successfully.
+2025-09-26 12:07:52,334 - prescription_app - INFO - ML model loaded successfully.
+2025-09-26 12:07:52,340 - prescription_app - INFO - File uploaded: 0.png
+2025-09-26 12:07:55,025 - prescription_app - DEBUG - OCR output for 0.png: LABORATORY REPORT
+
+Patient Name: Vicki Frank Age: 53
+
+DOB: 1971-06-26 Gender: female
+
+Address: 711 Cole Stravenue Suite 23 City: Franklin
+
+State: MA Country: US
+
+PostalCode: 02038 MaritalStatus: | Married
+
+MRN: a698a486-824d-3beb-5d74-cd7809889e2b Report Date: Dec 13, 2014, 01:54:26
+
+Test Result Units
+
+Body Height 179.9 cm
+Pain severity - 0-10 verbal numeric rating [Score] 1.0 {score}
+- Reported
+Body Weight 98.5 kg
+Body mass index (BMI) [Ratio] 30.44 kg/m2
+Diastolic Blood Pressure 86 mm[Hg]
+Systolic Blood Pressure 100 mm[Hg]
+Heart rate 96.0 /min
+Respiratory rate 14.0 /min
+Generalized anxiety disorder 7 item (GAD-7) total 3.0 {score}
+score [Reported.PHQ]
+Patient Health Questionnaire 2 item (PHQ-2) total 2.0 {score}
+score [Reported]
+Total score [AUDIT-C] 1.0 {score}
+
+Dr. Wynell Mayert
+
+[m] 1 = [=] Booking Centre:- WELLNESS ON WHEELS,PC
+
+=_ © (263)761-9191 B robin83@example.com ® http://fisher.com/
+
+[mu] All Lab results are subject to clinical interpretation by qualified medical professional and this report is not subject to use for any medico-legal purpose.
+7
+
+
+2025-09-26 12:07:55,025 - prescription_app - INFO - Extracted data fields from 0.png
+2025-09-26 12:07:55,029 - prescription_app - INFO - Risk predicted for 0.png: High (Because of Medium age, Obesity (High BMI))
